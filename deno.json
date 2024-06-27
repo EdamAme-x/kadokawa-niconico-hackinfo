@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "deno run -A --watch index.ts"
+  },
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.4.9"
+  }
+}
